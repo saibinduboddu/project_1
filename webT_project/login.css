@@ -1,0 +1,13 @@
+/* login.css */
+.container {
+    margin-top: 100px; /* Adjust as needed */
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Example box shadow */
+}
+
+.form-control:hover {
+    border-color: #80bdff; /* Example hover color */
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); /* Example hover shadow */
+}
